@@ -1,1 +1,1 @@
-# EC2-Launch-Nginx
+# EC2-Install and Launch-Nginx
